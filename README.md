@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhig_tech" target="blank"><img src="https://img.shields.io/twitter/follow/bhig_tech?logo=twitter&style=for-the-badge" alt="bhig_tech" /></a> </p>
 
-- 🌱 I’m currently learning **Node and Tailwind**
+- 🌱 I’m currently learning **Node and Express**
 
 - 📝 I regularly read tech articles on (Medium, Hashnode, TechCrunch)
 
