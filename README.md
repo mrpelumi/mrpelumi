@@ -7,7 +7,7 @@
 
 - 📝 I regularly read tech articles on (Medium, Hashnode, TechCrunch)
 
-- 💬 Ask me about **React, Python**
+- 💬 Ask me about **React, JavaScript, Firebase, Python, Django**
 
 - 📫 How to reach me **pelumioguntola5@gmail.com**
 
