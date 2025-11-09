@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/bhig_tech" target="blank"><img src="https://img.shields.io/twitter/follow/bhig_tech?logo=twitter&style=for-the-badge" alt="bhig_tech" /></a> </p>
 
-- 🌱 I’m currently learning **Node and Express**
+- 🌱 I’m currently learning **Spring AI**
 
 - 📝 I regularly read tech articles on (Medium, Hashnode, TechCrunch)
 
-- 💬 Ask me about **React, JavaScript, Firebase, Python, Django**
+- 💬 Ask me about **React, TypeScript, Firebase, Spring Boot, BPMN, Flowable, Spring AI**
 
 - 📫 How to reach me **pelumioguntola5@gmail.com**
 
